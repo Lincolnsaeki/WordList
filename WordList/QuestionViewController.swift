@@ -13,6 +13,25 @@ class QuestionViewController: UIViewController {
     @IBOutlet var questionLabel:UILabel!
     @IBOutlet var nextButton: UIButton!
     
+    var isAnswered:Bool = false
+    var wordArrey: [Dictionary<String, String>] = []
+    var nowNumber: Int = 0
+    let saveDate = UserDefaults.standard
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loading the view.
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        wordArrey = saveDate.array(forKey: "WORD") as! [Dictionary<String, String>]
+        
+        wordArrey.shuffle()
+        questionLabel.text = wordArrey[nowNumber]["english"]
+    }
+
     
     @IBAction func nextBottonTapped (){
         
@@ -36,24 +55,8 @@ class QuestionViewController: UIViewController {
         
     }
     
-    var isAnswered:Bool = false
-    var wordArrey: [Dictionary<String, String>] = []
-    var nowNumber: Int = 0
-    let saveDate = UserDefaults.standard
     
-    override func viewDidLoad() {
-        super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
-    }
-    override func viewWillAppear(_ animated: Bool) {
-        super.viewWillAppear(animated)
-        wordArrey = saveDate.array(forKey: "WORD") as! [Dictionary<String, String>]
-        
-        wordArrey.shuffle()
-        questionLabel.text = wordArrey[nowNumber]["english"]
-    }
-
+    
     /*
     // MARK: - Navigation
 
