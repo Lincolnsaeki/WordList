@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0D089C53-4C17-4F55-BAB3-1AA1420B3E3A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C46B81C-5536-4144-BD0F-CF1A6D52685E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WordList/ListTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ListTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4C46B81C-5536-4144-BD0F-CF1A6D52685E - 28db66c91a2caf67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordList.ListTableViewCell.englishLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "WordList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saekirinnosuke/Desktop/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%B3_%E4%BD%90%E4%BC%AF%E5%87%9C%E4%B9%83%E4%BB%8B/WordList/WordList/ListTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "4C46B81C-5536-4144-BD0F-CF1A6D52685E - 233d3d3a580b0b73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordList.ListTableViewCell.englishLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "WordList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saekirinnosuke/Desktop/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%B3_%E4%BD%90%E4%BC%AF%E5%87%9C%E4%B9%83%E4%BB%8B/WordList/WordList/ListTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "4C46B81C-5536-4144-BD0F-CF1A6D52685E - 58c7a752cb7e1862"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordList.ListTableViewCell.englishLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "WordList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saekirinnosuke/Desktop/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%B3_%E4%BD%90%E4%BC%AF%E5%87%9C%E4%B9%83%E4%BB%8B/WordList/WordList/ListTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "4C46B81C-5536-4144-BD0F-CF1A6D52685E - d8161a296f39604f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordList.ListTableViewCell.englishLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "WordList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saekirinnosuke/Desktop/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%B3_%E4%BD%90%E4%BC%AF%E5%87%9C%E4%B9%83%E4%BB%8B/WordList/WordList/ListTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "4C46B81C-5536-4144-BD0F-CF1A6D52685E - 387f3179e6e1f9e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordList.ListTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; WordList.ListTableViewCell"
+                  moduleName = "WordList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saekirinnosuke/Desktop/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%B3_%E4%BD%90%E4%BC%AF%E5%87%9C%E4%B9%83%E4%BB%8B/WordList/WordList/ListTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "4C46B81C-5536-4144-BD0F-CF1A6D52685E - 3e32495f9c48b2be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordList.ListTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;WordList.ListTableViewCell&gt;"
+                  moduleName = "WordList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saekirinnosuke/Desktop/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%B3_%E4%BD%90%E4%BC%AF%E5%87%9C%E4%B9%83%E4%BB%8B/WordList/WordList/ListTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
